@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/elagmae">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=cad7e7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20L%C3%A9a%F0%9F%91%8B" alt="Hello! I&#39;m Léa Pouthier👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=cad7e7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20L%C3%A9a%F0%9F%91%8B" alt="Hello! I&#39;m Léa👋" />
   </a>
 </p>
 
@@ -49,6 +49,10 @@ Unity Gameplay &amp; UI Programmer, fresh graduate. I like building clean, reusa
   <a href="https://elagmae.github.io/NewPortfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:lea.pouthier@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+---
+
+<p> ⭐ Léa Pouthier as <b>elagmae</b> </p>
 
 <!--
 **elagmae/elagmae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
