@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/elagmae">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=cad7e7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20L%C3%A9a%F0%9F%91%8B" alt="Hello! I&#39;m Léa👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=cad7e7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20L%C3%A9a%F0%9F%91%8B" alt="Hello! I&#39;m Léa Pouthier👋" />
   </a>
 </p>
 
