@@ -50,10 +50,6 @@ Unity Gameplay &amp; UI Programmer, fresh graduate. I like building clean, reusa
   <a href="mailto:lea.pouthier@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/elagmae">elagmae</a></i></p>
-
-
 <!--
 **elagmae/elagmae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
