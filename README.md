@@ -52,7 +52,7 @@ Unity Gameplay &amp; UI Programmer, fresh graduate. I like building clean, reusa
 
 ---
 
-<p> ⭐ Léa Pouthier as <b>elagmae</b> </p>
+⭐ Léa Pouthier as <b>elagmae</b>
 
 <!--
 **elagmae/elagmae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
